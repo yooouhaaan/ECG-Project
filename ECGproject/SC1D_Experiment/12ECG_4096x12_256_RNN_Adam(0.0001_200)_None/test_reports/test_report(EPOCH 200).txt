@@ -1,0 +1,35 @@
+###################### TEST REPORT ######################
++++++++++++++++++++++++++ Metric = Accuracy +++++++++++++++++++++++++
+Label 1dAVb Mean Accuracy    :	 0.9661
+Label RBBB Mean Accuracy    :	 0.9589
+Label LBBB Mean Accuracy    :	 0.9637
+Label SB Mean Accuracy    :	 0.9807
+Label ST Mean Accuracy    :	 0.9553
+Label AF Mean Accuracy    :	 0.9843
+
++++++++++++++++++++++++++ Metric = Precision +++++++++++++++++++++++++
+Label 1dAVb Mean Precision    :	 1.0
+Label RBBB Mean Precision    :	 1.0
+Label LBBB Mean Precision    :	 1.0
+Label SB Mean Precision    :	 1.0
+Label ST Mean Precision    :	 1.0
+Label AF Mean Precision    :	 1.0
+
++++++++++++++++++++++++++ Metric = Recall +++++++++++++++++++++++++
+Label 1dAVb Mean Recall    :	 0.0
+Label RBBB Mean Recall    :	 0.0
+Label LBBB Mean Recall    :	 0.0
+Label SB Mean Recall    :	 0.0
+Label ST Mean Recall    :	 0.0
+Label AF Mean Recall    :	 0.0
+
++++++++++++++++++++++++++ Metric = F1-Score +++++++++++++++++++++++++
+Label 1dAVb Mean F1-Score    :	 0.0
+Label RBBB Mean F1-Score    :	 0.0
+Label LBBB Mean F1-Score    :	 0.0
+Label SB Mean F1-Score    :	 0.0
+Label ST Mean F1-Score    :	 0.0
+Label AF Mean F1-Score    :	 0.0
+
+###################### TEST REPORT ######################
+
